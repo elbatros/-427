@@ -1,0 +1,8 @@
+{
+  "name": "product-listing",
+  "version": "1.0.0",
+  "description": "matches listing to products",
+  "main": "src/index.js",
+  "author": "P. Gill",
+  "license": "GPLv2"
+}
